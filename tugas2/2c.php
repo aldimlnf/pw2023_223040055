@@ -8,7 +8,7 @@
     <title>2c kotak</title>
     <style>
         .warna {
-            background-color: lightcoral;
+            background-color: salmon;
             border-style: solid;
             border-width: 1px;
         }
